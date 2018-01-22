@@ -6,7 +6,7 @@
   "keywords": ["font", "icofont",  "icon", "bootstrap"],
   "homepage": "http://fontawesome.io/",
   "bugs": {
-    "url" : "http://github.com/mycools/icofont/issues"
+    "url" : "http://github.com/mycools/ico-icofont/issues"
   },
   "author": {
     "name": "Jarak Kritkiattisak",
@@ -29,3 +29,4 @@
   "engines" : {
     "node" : ">=0.10.3"
   }
+}
