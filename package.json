@@ -1,0 +1,51 @@
+{
+  "_from": "icofont",
+  "_id": "icofont@1.1.0",
+  "_inBundle": false,
+  "_location": "/icofont",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": false,
+    "raw": "ico-font",
+    "name": "ico-font",
+    "escapedName": "ico-font",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "ico-font",
+  "_where": "/Users/mycools/htdocs/ktb-netbank-web",
+  "author": {
+    "name": "Dave Gandy",
+    "email": "dave@fontawesome.io",
+    "url": "http://twitter.com/davegandy"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Jarak Kritkiattisak",
+      "url": "http://twitter.com/mycoolss"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "The iconic font and CSS framework",
+  "engines": {
+    "node": ">=0.10.3"
+  },
+  "homepage": "http://icofont.com/",
+  "keywords": [
+    "font",
+    "icofont",
+    "bootstrap"
+  ],
+  "license": "(OFL-1.1 AND MIT)",
+  "name": "icofont",
+  "style": "css/icofont.css",
+  "version": "1.1.0"
+}
